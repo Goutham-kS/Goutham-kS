@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Goutham-kS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
--     I am doing my MCA in VTU
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Goutham-kS
+- 👀  Learning coding and testing
+- 🌱 Master Degree in Computer Science
+- 💞️  
+- 📫 goutham.kalathil@gmail.com
 
 <!---
 Goutham-kS/Goutham-kS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
